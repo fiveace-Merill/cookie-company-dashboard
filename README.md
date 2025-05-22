@@ -38,7 +38,7 @@ The **Cookie Company Sales Dashboard** is a Power BI project designed to help st
 
 ## Screenshot
 
-<!-- Screenshot placeholder: Add a screenshot of the Power BI dashboard here -->
+![Dashboard Screenshot.](https://github.com/fiveace-Merill/cookie-company-dashboard/blob/main/dashboard_screenshot.PNG)
 
 ## Project Motivation and Target Audience
 
